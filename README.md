@@ -1,6 +1,7 @@
-# Discount Code Microservice
+# Discount Code Service
 
-A lightweight gRPC-based service for managing discount codes. This microservice enables clients to generate and redeem discount codes with validation and database persistence.
+A lightweight gRPC-based service for managing discount codes.
+This service enables clients to generate and redeem discount codes with validation and database persistence.
 
 ## Technologies Used
 
