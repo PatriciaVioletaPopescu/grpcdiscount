@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+out/
+.vs/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider / VSCode / JetBrains
+.idea/
+.vscode/
+
+# dotnet tools
+*.dotnet/
+
+# EF Core Migrations snapshots
+Migrations/
+
+# Test coverage
+TestResults/
+coverage/
